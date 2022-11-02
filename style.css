@@ -1,0 +1,6 @@
+body{
+    text-align: center;
+}
+#meu_canvas{
+    border:10px double rgb(0, 153, 255);
+}
